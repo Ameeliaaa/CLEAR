@@ -46,7 +46,7 @@ CLEAR-Large leads every category among the evaluated configurations. The largest
 
 ## Code Availability
 
-The code is available at [https://github.com/ArthasMil/CLEAR](https://github.com/ArthasMil/CLEAR).
+The code is available at [https://github.com/Ameeliaaa/CLEAR](https://github.com/Ameeliaaa/CLEAR).
 
 ## Citation
 
